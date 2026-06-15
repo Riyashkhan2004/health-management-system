@@ -1,47 +1,38 @@
-# Health Management System
+# Smart Health Management System
 
-## About Project
+A full-featured Doctor Appointment and Health Record System built with **PHP + MySQL**.
 
-Health Management System is a web-based application developed to manage healthcare information.
+![Dashboard Screenshot](screenshot-dashboard.png)
 
-The system helps manage doctors, patients, appointments and medical records.
+## ✨ Features
 
-## Technologies Used
+- Admin Dashboard
+- Doctor & Patient Management
+- Appointment Booking & Management
+- Email Notifications (PHPMailer)
+- Patient Wallet System
+- Reviews & Ratings
 
-- PHP
-- MySQL
-- HTML
-- CSS
-- JavaScript
+## 🛠 Tech Stack
 
-## Features
+- **Backend**: PHP 8, MySQL
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+- **Email**: PHPMailer
 
-- Patient management
-- Doctor management
-- Appointment booking
-- Medical records
-- Database management
+## 🚀 How to Run
 
-## Project Structure
-Health-Management-System
-|
-|-- admin
-|-- doctor
-|-- patient
-|-- css
-|-- js
-|-- database
+1. Clone the repo
+2. Import `database.sql` into phpMyAdmin
+3. Update database credentials in `config/db.php`
+4. Start XAMPP and visit `http://localhost/doctor`
 
+## 📸 Screenshots
 
-## Installation
+![Admin Dashboard](screenshots/admin.png)
+![Patient Portal](screenshots/patient.png)
 
-1. Install XAMPP
-2. Copy project into htdocs
-3. Start Apache and MySQL
-4. Import database
-5. Open browser
+## 📌 Live Demo
+*(Add if you deploy later)*
 
-
-## Author
-
-Riyash Khan
+## 👤 Author
+**Riyas Khan** - [GitHub](https://github.com/Riyashkhan2004)

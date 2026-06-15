@@ -2,8 +2,6 @@
 
 A full-featured Doctor Appointment and Health Record System built with **PHP + MySQL**.
 
-![Dashboard Screenshot](screenshot-dashboard.png)
-
 ## ✨ Features
 
 - Admin Dashboard
@@ -25,14 +23,6 @@ A full-featured Doctor Appointment and Health Record System built with **PHP + M
 2. Import `database.sql` into phpMyAdmin
 3. Update database credentials in `config/db.php`
 4. Start XAMPP and visit `http://localhost/doctor`
-
-## 📸 Screenshots
-
-![Admin Dashboard](screenshots/admin.png)
-![Patient Portal](screenshots/patient.png)
-
-## 📌 Live Demo
-*(Add if you deploy later)*
 
 ## 👤 Author
 **Riyas Khan** - [GitHub](https://github.com/Riyashkhan2004)
@@ -61,7 +51,7 @@ Smart Doctor is a web-based healthcare management system that allows patients to
 
 ## 🏠 Home Page
 
-![Home Page](screenshots/home.jpeg)
+![Home Page](screenshots/dashboard.jpeg)
 
 ---
 
@@ -73,25 +63,25 @@ Smart Doctor is a web-based healthcare management system that allows patients to
 
 ## 📊 Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.jpeg)
+![Admin Dashboard](screenshots/admin-dash.jpeg)
 
 ---
 
 ## 👨‍⚕️ Doctor Dashboard
 
-![Doctor Dashboard](screenshots/doctor-dashboard.jpeg)
+![Doctor Dashboard](screenshots/doc-dash.jpeg)
 
 ---
 
 ## 📅 Appointment Management
 
-![Appointment Management](screenshots/appointment.jpeg)
+![Appointment Management](screenshots/app-mgm.jpeg)
 
 ---
 
 ## 📝 Book Appointment
 
-![Book Appointment](screenshots/book-appointment.jpeg)
+![Book Appointment](screenshots/book.jpeg)
 
 ---
 
